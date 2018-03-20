@@ -1,0 +1,4 @@
+BFS: d, b, c, f, g, a, 
+DFS: d, g, e, a, 
+DLS: d, b, a, 
+BDS: d, b, a, 
